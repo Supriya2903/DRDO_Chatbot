@@ -62,7 +62,7 @@ DRDO_chatbot/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/[your-username]/DRDO_Chatbot.git
+   git clone https://github.com/Supriya2903/DRDO_Chatbot.git
    cd DRDO_Chatbot
    ```
 
